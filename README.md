@@ -5,7 +5,7 @@ A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil m�
 
 ## 🔹 Questionário respondido
 
-1. **Distribuição de indivíduos por faixa de escolaridade**
+01. **Distribuição de indivíduos por faixa de escolaridade**
 
 **Escolaridade** | **Quantidade** |
 |--- | --- |
@@ -17,7 +17,8 @@ A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil m�
 | Fundamental Completo | 65 |
 | Médio Completo | 64 |
 
-2. Existe correlação entre escolaridade e renda mensal? \ R -> Sim.
+02. Existe correlação entre escolaridade e renda mensal? \
+R -> Sim. \
 
 **Escolaridade** |	**Renda_Mensal** |	**Quantidade**
 |--- | --- | --- |
@@ -64,7 +65,7 @@ A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil m�
 |	Superior Incompleto | 3 a 5 SM | 11|
 |	Superior Incompleto	| 5 a 10 SM | 12|
 
-3. Média de idade por ocupação
+03. Média de idade por ocupação
 
 **Ocupacao** | **Media_Idade**
 |--- | --- |
@@ -75,7 +76,7 @@ A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil m�
 |	Autônomo |	46.6389|
 |	Desempregado |	45.6292 |
 
-4. Proporção de gêneros por estado civil
+04. Proporção de gêneros por estado civil
 
 **Estado_Civil** |	**Genero** |	**Quantidade**
 |--- | --- | --- |
@@ -88,7 +89,7 @@ A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil m�
 |	Viúvo	| Feminino	| 63|
 |	Viúvo	| Masculino	| 70|
 
-5. Cinco cidades com maior número de indivíduos com renda acima de 5 salários mínimos
+05. Cinco cidades com maior número de indivíduos com renda acima de 5 salários mínimos
 
 **Cidade** |	**Quantidade**
 |--- | --- |
@@ -97,7 +98,7 @@ A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil m�
 |	Fogaça	| 3|
 |	da Cruz	| 3 |
 
-6. Estados com maior concentração de indivíduos com nível superior completo
+06. Estados com maior concentração de indivíduos com nível superior completo
 
 **Estado** | **Quantidade**
 |--- | --- |
@@ -112,13 +113,13 @@ A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil m�
 |	SP	| 5|
 |	BA	| 4|
 
-7. Ocupação mais comum entre os indivíduos com ensino médio completo
-  R -> Aposentado | 18
+07. Ocupação mais comum entre os indivíduos com ensino médio completo \
+R -> Aposentado | 18 \
 
-8. Mais solteiros ou casados entre os desempregados
-  R -> Solteiros | 25
+08. Mais solteiros ou casados entre os desempregados \
+R -> Solteiros | 25 \
 
-9. Média de idade dos aposentados e casados por estado
+09. Média de idade dos aposentados e casados por estado
 
 **Estado** |	**Media_Idade**
 |--- | --- |
@@ -133,5 +134,5 @@ A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil m�
 |	PR |	49.0000|
 |	PE |	35.0000|
 
-10. Perfil médio do “cidadão brasileiro”
-  R -> Gênero Masculino, Ensino superior completo, CLT, Pernambucano, 1 a 2 Salários Mínimos Mensais.
+10. Perfil médio do “cidadão brasileiro” \
+R -> Gênero Masculino, Ensino superior completo, CLT, Pernambucano, 1 a 2 Salários Mínimos Mensais. \
