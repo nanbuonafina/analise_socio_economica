@@ -1,7 +1,8 @@
 # Relatório da análise
 
 ## 📌 Visão Geral
-A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil médio do "cidadão brasileiro" baseado na base de dados fornecida. [Base de Dados](socio_economico.sql)
+A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil médio do "cidadão brasileiro" baseado na base de dados fornecida.
+Arquivo da base de dados: [Base de Dados](socio_economico.sql)
 
 ## 🔹 Questionário respondido
 
