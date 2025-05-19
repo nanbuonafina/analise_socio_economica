@@ -6,6 +6,7 @@ A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil m�
 ## 🔹 Questionário respondido
 
 1. **Distribuição de indivíduos por faixa de escolaridade**
+
 **Escolaridade** | **Quantidade** |
 |--- | --- |
 | Superior Completo	| 78 |
@@ -18,6 +19,7 @@ A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil m�
 
 2. Existe correlação entre escolaridade e renda mensal?
 R -> Sim.
+
 **Escolaridade** |	**Renda_Mensal** |	**Quantidade**
 |--- | --- | --- |
 | Fundamental Completo	| < 1 SM	| 12 |
@@ -64,6 +66,7 @@ R -> Sim.
 |	Superior Incompleto	| 5 a 10 SM | 12|
 
 3. Média de idade por ocupação
+
 **Ocupacao** | **Media_Idade**
 |--- | --- |
 |	Empresário |	52.0946|
@@ -74,6 +77,7 @@ R -> Sim.
 |	Desempregado |	45.6292 |
 
 4. Proporção de gêneros por estado civil
+
 **Estado_Civil** |	**Genero** |	**Quantidade**
 |--- | --- | --- |
 |	Casado |	Feminino |	63|
@@ -86,6 +90,7 @@ R -> Sim.
 |	Viúvo	| Masculino	| 70|
 
 5. Cinco cidades com maior número de indivíduos com renda acima de 5 salários mínimos
+
 **Cidade** |	**Quantidade**
 |--- | --- |
 |	Cardoso	| 5|
@@ -94,6 +99,7 @@ R -> Sim.
 |	da Cruz	| 3 |
 
 6. Estados com maior concentração de indivíduos com nível superior completo
+
 **Estado** | **Quantidade**
 |--- | --- |
 |	PE	| 14|
@@ -114,6 +120,7 @@ R -> Aposentado | 18
 R -> Solteiros | 25
 
 9. Média de idade dos aposentados e casados por estado
+
 **Estado** |	**Media_Idade**
 |--- | --- |
 |	BA |	70.0000|
