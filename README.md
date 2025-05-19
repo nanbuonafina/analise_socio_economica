@@ -17,8 +17,7 @@ A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil m�
 | Fundamental Completo | 65 |
 | Médio Completo | 64 |
 
-2. Existe correlação entre escolaridade e renda mensal?
-  R -> Sim.
+2. Existe correlação entre escolaridade e renda mensal? \ R -> Sim.
 
 **Escolaridade** |	**Renda_Mensal** |	**Quantidade**
 |--- | --- | --- |
