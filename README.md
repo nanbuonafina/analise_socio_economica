@@ -18,8 +18,7 @@ A análise deve responder ao todo 09 perguntas e, ao final, desenhar o perfil m�
 | Médio Completo | 64 |
 
 2. Existe correlação entre escolaridade e renda mensal?
-
-R -> Sim.
+  R -> Sim.
 
 **Escolaridade** |	**Renda_Mensal** |	**Quantidade**
 |--- | --- | --- |
@@ -115,12 +114,10 @@ R -> Sim.
 |	BA	| 4|
 
 7. Ocupação mais comum entre os indivíduos com ensino médio completo
-
-R -> Aposentado | 18
+  R -> Aposentado | 18
 
 8. Mais solteiros ou casados entre os desempregados
-
-R -> Solteiros | 25
+  R -> Solteiros | 25
 
 9. Média de idade dos aposentados e casados por estado
 
@@ -138,5 +135,4 @@ R -> Solteiros | 25
 |	PE |	35.0000|
 
 10. Perfil médio do “cidadão brasileiro”
-
-R -> Gênero Masculino, Ensino superior completo, CLT, Pernambucano, 1 a 2 Salários Mínimos Mensais.
+  R -> Gênero Masculino, Ensino superior completo, CLT, Pernambucano, 1 a 2 Salários Mínimos Mensais.
